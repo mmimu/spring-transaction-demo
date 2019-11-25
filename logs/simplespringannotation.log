@@ -1,0 +1,4 @@
+2019-11-18 22:08:12:588 |-WARN  [main] initCheck(DruidDataSource.java:1173) - removeAbandoned is true, not use in productiion.
+2019-11-18 22:08:17:135 |-INFO  [main] init(DruidDataSource.java:1002) - {dataSource-1} inited
+2019-11-18 22:10:29:538 |-WARN  [main] initCheck(DruidDataSource.java:1173) - removeAbandoned is true, not use in productiion.
+2019-11-18 22:10:33:959 |-INFO  [main] init(DruidDataSource.java:1002) - {dataSource-1} inited
