@@ -25,7 +25,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 
-        <spring.version>5.1.8.RELEASE</spring.version>
+        <spring.version>5.2.5.RELEASE</spring.version>
         <logback.version>1.2.3</logback.version>
         <aspectj.version>1.8.13</aspectj.version>
         <fastjson.version>1.2.47</fastjson.version>
